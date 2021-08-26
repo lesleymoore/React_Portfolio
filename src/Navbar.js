@@ -6,25 +6,25 @@ const Navbar = (currentpage, Changepage) => {
   return (
       <div className="flex">
     <div className="navbar">
-        <a href="/"
+        <a href="/React_Portfolio"
          onClick={() => Changepage('About')}
          className={currentpage === 'About' ? "Navactive" : "NavLink"} >
              About Me </a>
      </div>
      <div className="navbar">
-        <a href="/portfolio"
+        <a href="/React_Portfolio/portfolio"
          onClick={() => Changepage('Portfolio')}
          className={currentpage === 'Portfolio' ? "Navactive" : "NavLink"} >
              Portfolio</a>
      </div>
      <div className="navbar">
-        <a href="/contact"
+        <a href="/React_Portfolio/contact"
          onClick={() => Changepage('Contact')}
          className={currentpage === 'Contact' ? "Navactive" : "NavLink"} >
              Contact Me </a>
      </div>
      <div className="navbar">
-        <a href="/resume"
+        <a href="/React_Portfolio/resume"
          onClick={() => Changepage('Resume')}
          className={currentpage === 'Resume' ? "Navactive" : "NavLink"} >
              Resume</a>

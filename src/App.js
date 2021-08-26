@@ -17,10 +17,10 @@ function App() {
     <ApolloProvider client= {client}>
     <Router>
       <div classname="App"></div>
-      <Route exact path="/" component={About} />
-      <Route exact path="/portfolio" component={Portfolio} />
-      <Route exact path="/contact" component={Contact} />
-      <Route exact path="/resume" component={Resume} />
+      <Route exact path="/React_Portfolio" component={About} />
+      <Route exact path="/React_Portfolio/portfolio" component={Portfolio} />
+      <Route exact path="/React_Portfolio/contact" component={Contact} />
+      <Route exact path="/React_Portfolio/resume" component={Resume} />
     </Router>
     </ApolloProvider>
   );
