@@ -12,7 +12,7 @@ const Navbar = (currentpage, Changepage) => {
              About Me </a>
      </div>
      <div className="navbar">
-        <a href="/Portfolio"
+        <a href="/React_Portfolio/Portfolio"
          onClick={() => Changepage('Portfolio')}
          className={currentpage === 'Portfolio' ? "Navactive" : "NavLink"} >
              Portfolio</a>
