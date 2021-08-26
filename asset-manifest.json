@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/React_Portfolio/static/css/main.dfda11eb.chunk.css",
+    "main.js": "/React_Portfolio/static/js/main.49603060.chunk.js",
+    "main.js.map": "/React_Portfolio/static/js/main.49603060.chunk.js.map",
+    "runtime-main.js": "/React_Portfolio/static/js/runtime-main.c39930b3.js",
+    "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.c39930b3.js.map",
+    "static/js/2.5e1f1c40.chunk.js": "/React_Portfolio/static/js/2.5e1f1c40.chunk.js",
+    "static/js/2.5e1f1c40.chunk.js.map": "/React_Portfolio/static/js/2.5e1f1c40.chunk.js.map",
+    "static/js/3.136057ee.chunk.js": "/React_Portfolio/static/js/3.136057ee.chunk.js",
+    "static/js/3.136057ee.chunk.js.map": "/React_Portfolio/static/js/3.136057ee.chunk.js.map",
+    "index.html": "/React_Portfolio/index.html",
+    "static/css/main.dfda11eb.chunk.css.map": "/React_Portfolio/static/css/main.dfda11eb.chunk.css.map",
+    "static/js/2.5e1f1c40.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.5e1f1c40.chunk.js.LICENSE.txt",
+    "static/media/Password.e08e3698.png": "/React_Portfolio/static/media/Password.e08e3698.png",
+    "static/media/Project1.ba4cafe8.png": "/React_Portfolio/static/media/Project1.ba4cafe8.png",
+    "static/media/Work Day.dbeb0dfd.png": "/React_Portfolio/static/media/Work Day.dbeb0dfd.png",
+    "static/media/ecommerce.8114216e.png": "/React_Portfolio/static/media/ecommerce.8114216e.png",
+    "static/media/me.dbcb6455.jpg": "/React_Portfolio/static/media/me.dbcb6455.jpg",
+    "static/media/terminal.f1e35227.png": "/React_Portfolio/static/media/terminal.f1e35227.png",
+    "static/media/website.1857cd21.png": "/React_Portfolio/static/media/website.1857cd21.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c39930b3.js",
+    "static/js/2.5e1f1c40.chunk.js",
+    "static/css/main.dfda11eb.chunk.css",
+    "static/js/main.49603060.chunk.js"
+  ]
+}
