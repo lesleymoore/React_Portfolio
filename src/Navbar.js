@@ -12,19 +12,19 @@ const Navbar = (currentpage, Changepage) => {
              About Me </a>
      </div>
      <div className="navbar">
-        <a href="/Portfolio"
+        <a href="#Portfolio"
          onClick={() => Changepage('Portfolio')}
          className={currentpage === 'Portfolio' ? "Navactive" : "NavLink"} >
              Portfolio</a>
      </div>
      <div className="navbar">
-        <a href="/Contact"
+        <a href="#Contact"
          onClick={() => Changepage('Contact')}
          className={currentpage === 'Contact' ? "Navactive" : "NavLink"} >
              Contact Me </a>
      </div>
      <div className="navbar">
-        <a href="/Resume"
+        <a href="#Resume"
          onClick={() => Changepage('Resume')}
          className={currentpage === 'Resume' ? "Navactive" : "NavLink"} >
              Resume</a>
