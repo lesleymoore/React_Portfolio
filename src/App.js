@@ -18,9 +18,9 @@ function App() {
     <Router>
       <div classname="App"></div>
       <Route exact path="/React_Portfolio" component={About} />
-      <Route exact path="/portfolio" component={Portfolio} />
-      <Route exact path="/React_Portfolio/contact" component={Contact} />
-      <Route exact path="/React_Portfolio/resume" component={Resume} />
+      <Route exact path="/Portfolio" component={Portfolio} />
+      <Route exact path="/React_Portfolio/Contact" component={Contact} />
+      <Route exact path="/React_Portfolio/Resume" component={Resume} />
     </Router>
     </ApolloProvider>
   );
