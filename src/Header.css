@@ -1,0 +1,14 @@
+.Header {
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 25px;
+    background-color: #282c34;
+    color: aqua;
+    display: flex;
+}
+
+.Links {
+    margin-left: 75px;
+    justify-content: right;
+    color: aqua;
+}

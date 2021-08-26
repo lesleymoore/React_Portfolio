@@ -1,0 +1,15 @@
+.NavLink {
+    color: aqua;
+}
+
+.Navactive {
+    color:pink;
+}
+.navbar {
+    font-size: 25px;
+    margin: 0 105px;
+}
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
