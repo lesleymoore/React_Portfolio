@@ -6,7 +6,7 @@ const Navbar = (currentpage, Changepage) => {
   return (
       <div className="flex">
     <div className="navbar">
-        <a href="/"
+        <a href="/React_Portfolio"
          onClick={() => Changepage('About')}
          className={currentpage === 'About' ? "Navactive" : "NavLink"} >
              About Me </a>
