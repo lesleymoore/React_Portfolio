@@ -17,6 +17,7 @@ This is a Portfolio built with React. Using react navigation, router, header, fo
 
 ## Preview 
 
+![React Portfolio](src/images/page.png)
 
 ## Deployed Site
 
